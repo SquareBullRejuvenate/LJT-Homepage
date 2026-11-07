@@ -46,7 +46,7 @@ I am a first-year PhD candidate in the HKUST NLP Group. I graduated from Shangha
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023). Co-author: Junteng Liu.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023). Co-author: Junteng Liu.
 
-Full publication details are available on the [Publications page](/publications/), and my complete publication list is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+Full publication details are available on the [Publications page]({{ site.baseurl }}/publications/), and my complete publication list is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Contact
 
